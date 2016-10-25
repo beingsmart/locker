@@ -1,15 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
   <groupId>com.parqco</groupId>
-  <artifactId>spinalcord</artifactId>
+  <artifactId>gullet</artifactId>
   <versioning>
     <versions>
       <version>0.1-SNAPSHOT</version>
       <version>0.2-SNAPSHOT</version>
-      <version>0.3-SNAPSHOT</version>
-      <version>0.4-SNAPSHOT</version>
-      <version>0.5-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20161025023724</lastUpdated>
+    <lastUpdated>20161020220113</lastUpdated>
   </versioning>
 </metadata>
